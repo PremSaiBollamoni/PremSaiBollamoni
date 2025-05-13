@@ -76,7 +76,7 @@
 
 <br>
 
-<h2><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"> GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PremSaiBollamoni&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats">
 </p>
